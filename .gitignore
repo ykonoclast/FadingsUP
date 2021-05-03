@@ -1,2 +1,6 @@
-*.autosave
+#fichiers de release
+*.pdf
+#fichier transitoires
 *.eps
+*.autosave
+*.~lock*
